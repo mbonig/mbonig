@@ -4,4 +4,4 @@ Thanks for checking out my Github page. You'll find a lot of random stuff here. 
 
 Check out my repos here, I'm always looking for Issues and PRs!
 
-Also, please check out [The Open Construct Foundation](openconstructfoundation.org) and [My Blog](matthewbonig.com)
+Also, please check out [The Open Construct Foundation](openconstructfoundation.org) and [My Blog](matthewbonig.com) or follow me on Twitter [@mattbonig](https://twitter.com/mattbonig).
